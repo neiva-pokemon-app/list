@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "commons",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/neiva-pokemon-app/commons.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3f5e2af18e2ddf5f7709a5a76ebd0c2a2e1526ed"
+      }
+    }
+  ],
+  "version" : 2
+}
